@@ -7,7 +7,7 @@ Product Manager with 10 years experience building investment technology for port
 - **Equity research & portfolio management tech** – full trade lifecycle workflows, data and analytics
 - **Side projects** – Whatever I'm tinkering with, its my creative outlet.
 ### Experience
-- **Millennium** – Product Manager, fundamental equity technology & AI technology
+- **Millennium** – Product Manager, for equity portfolio management & AI solutions 
 - **BlackRock** – Vice President, Product management and product marketing for Aladdin portfolio management solutions
 - **Bloomberg** – Product Specialist for PORT<GO> 
 
