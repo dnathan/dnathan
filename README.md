@@ -2,15 +2,6 @@
 
 Product Manager with 10 years experience building investment technology for portfolio managers, investors and analysts.
 
-### What I work on
-- **AI platforms for investors** – agentic tools that help PMs and analysts research, monitor and act on ideas
-- **Equity research & portfolio management tech** – full trade lifecycle workflows, data and analytics
-- **Side projects** – Whatever I'm tinkering with, its my creative outlet.
-### Experience
-- **Millennium** – Product Manager, for equity portfolio management & AI solutions 
-- **BlackRock** – Vice President, Product management and product marketing for Aladdin portfolio management solutions
-- **Bloomberg** – Product Specialist for PORT<GO> 
-
 > Most of my professional work is proprietary, so this profile is where I share personal builds and experiments.
 
 ### Get in touch
