@@ -1,6 +1,6 @@
 # Hi, I'm Davi 👋
 
-Product Manager with 10 years experience building investment technology for portfolio managers, investors and analysts.
+Product Manager with 10 years experience building investment technology and AI workflows for portfolio managers, investors and analysts.
 
 > Most of my professional work is proprietary, so this profile is where I share personal builds and experiments.
 
